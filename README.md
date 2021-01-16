@@ -17,7 +17,7 @@ Use this code below
 ```js
 let {variable} = new SurveyBuilder({
    lang: "en",
-   sel: ".renamed",
+   sel: "{selector}",
    public_key: "Public_API",
    privite_key: "Privite_API",
    full_setup: true,
@@ -34,13 +34,13 @@ let {variable} = new SurveyBuilder({
        "/SurveyBuilder/Builder/InsertItems.js"
    ],
    el:[{
-	type: "heading",
-	dataType: 1,
-	name: "heading",
-    id: "test",
-    classNames: "heading",
-    val: "Hello World",
-	editable: true
+	type: "{Element}",
+	dataType: {int},
+	name: "{name}",
+    id: "{Id}",
+    classNames: "{className}",
+    val: "{value/text}",
+	editable: {Boolean}
    }
   
   ]
