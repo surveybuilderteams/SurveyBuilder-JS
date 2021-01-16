@@ -79,3 +79,10 @@ let {variable} = new SurveyBuilder({
 
 Will Require to download SurveyBuilder for API and Data Uses
 
+***
+
+# Element types
+
+| type | relase date |
+| --- | ------- |
+| heading | 01/15/2021 7:20PM |
