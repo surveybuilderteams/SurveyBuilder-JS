@@ -81,7 +81,7 @@ Will Require to download SurveyBuilder for API and Data Uses
 
 ***
 
-# Element types
+# Supported Element types
 
 | type | relase date |
 | --- | ------- |
