@@ -12,6 +12,17 @@ SurveyBuilder Now has a JavaScript Library now. You can import and Export codes 
 
 # How to use
 
+Use can use a default base plate using this HTML code
+
+```html
+<center id="Form-Center" onload="Autosave()">
+	<form id="Editors-Form" method="post" action="">
+		<div id="Insert-Object" contenteditable="true"></div>
+	</form>
+```
+
+then set ```sel:``` to ```#Inser-Object```
+
 Use this code below
 
 ```js
