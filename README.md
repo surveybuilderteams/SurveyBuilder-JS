@@ -144,6 +144,8 @@ Use this code below
 | el.classNames | string | sets a ClassName to an element |
 | el.val | string | sets a default value/text to an element |
 | el.editable | boolean | allow the element to be editable |
+| el.required | boolean | requires and element |
+| el.selectedIndex | int | sets a default selector for dropdowns |
 
 ***
 
@@ -157,4 +159,11 @@ Will Require to download SurveyBuilder for API and Data Uses
 
 | type | relase date |
 | --- | ------- |
-| heading | 01/15/2021 7:20PM |
+| heading | 01/15/2021 |
+| paragraph | 01/21/2021 |
+| Full Name | 01/21/2021 |
+| Email | 01/21/2021 |
+| Address | 01/21/2021 |
+| Phone | 01/21/2021 |
+| Date Picker | 01/21/2021 |
+| Time Picker | 01/21/2021 |
