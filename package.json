@@ -1,6 +1,6 @@
 {
   "name": "surveybuilder-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SurveyBuilder-Js is a flexable and More free romming addon to be put onto your website",
   "main": "Index.js",
   "scripts": {
